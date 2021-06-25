@@ -69,6 +69,6 @@ parserOptions:
   
 overrides:
   - files: "*.js"
-    parser: babel-eslint
+    parser: esprima
     parserOptions: {}
 
