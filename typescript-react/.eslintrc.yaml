@@ -66,3 +66,9 @@ parser: "@typescript-eslint/parser"
 parserOptions:
   project: tsconfig.json
   tsconfigRootDir: .
+  
+overrides:
+  - files: "*.js"
+    parser: babel-eslint
+    parserOptions: {}
+
