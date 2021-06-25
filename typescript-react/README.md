@@ -13,12 +13,13 @@
   "eslint-plugin-promise": "^5.1.0",
   "eslint-plugin-react": "^7.24.0",
   "eslint-plugin-react-hooks": "^4.2.0",
-  "eslint-plugin-sonarjs": "^0.8.0-125"
+  "eslint-plugin-sonarjs": "^0.8.0-125",
+  "esprima": "^4.0.1"
 }
 ```
 
 ```sh
-npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-airbnb-typescript eslint-config-prettier eslint-plugin-import eslint-plugin-prettier eslint-plugin-promise eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-sonarjs -D
+npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-airbnb-typescript eslint-config-prettier eslint-plugin-import eslint-plugin-prettier eslint-plugin-promise eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-sonarjs esprima -D
 ```
 
 ## Prettier modules
