@@ -4,8 +4,8 @@
 
 ```json
 "devDependencies": {
-  "@typescript-eslint/eslint-plugin": "^4.28.0",
-  "@typescript-eslint/parser": "^4.28.0",
+  "@typescript-eslint/eslint-plugin": "^4.28.2",
+  "@typescript-eslint/parser": "^4.28.2",
   "eslint-config-airbnb-typescript": "^12.3.1",
   "eslint-config-prettier": "^8.3.0",
   "eslint-plugin-import": "^2.23.4",
@@ -13,7 +13,7 @@
   "eslint-plugin-promise": "^5.1.0",
   "eslint-plugin-react": "^7.24.0",
   "eslint-plugin-react-hooks": "^4.2.0",
-  "eslint-plugin-sonarjs": "^0.8.0-125",
+  "eslint-plugin-sonarjs": "^0.9.1",
   "esprima": "^4.0.1"
 }
 ```
@@ -26,7 +26,7 @@ npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-a
 
 ```json
 "devDependencies": {
-  "prettier": "^2.3.1",
+  "prettier": "^2.3.2",
 }
 ```
 
