@@ -33,3 +33,18 @@ npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-a
 ```sh
 npm i prettier -D
 ```
+
+## Jest modules
+
+```json
+"devDependencies": {
+  "@types/jest": "^26.0.24",
+  "@testing-library/react": "^12.0.0",
+  "@testing-library/jest-dom": "^5.14.1",
+  "jest": "^27.0.6",
+  "ts-jest": "^27.0.3"
+}
+  
+```sh
+npm i @types/jest @testing-library/react @testing-library/jest-dom jest ts-jest -D
+```
