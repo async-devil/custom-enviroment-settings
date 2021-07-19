@@ -44,6 +44,7 @@ npm i prettier -D
   "jest": "^27.0.6",
   "ts-jest": "^27.0.3"
 }
+```
   
 ```sh
 npm i @types/jest @testing-library/react @testing-library/jest-dom jest ts-jest -D
